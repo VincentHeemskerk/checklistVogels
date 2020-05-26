@@ -1,0 +1,31 @@
+header, footer {
+    height: 150px;
+    background-color: green;
+}
+
+section {
+    min-height: 200px;
+    background: white;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+table tr {
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+table td {
+    width: 250px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+tr {
+    background-color: lightgray;
+}
+tr:nth-child(odd) {
+    background-color: lightblue;
+}

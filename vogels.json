@@ -1,0 +1,33 @@
+{
+    "vogellijst": {
+        "vogels": [
+            {
+                "naam": "Roodborstje",
+                "Latijnse naam": "Erithacus rubecula",
+                "foto": "roodborst.jpg",
+                "gespot": false,
+                "datum": null,
+                "opmerkingen": "Dit is een roodborstje"
+            },
+            {
+                "naam": "Huismus",
+                "Latijnse naam": "Passer domesticus",
+                "foto": "huismus.jpg",
+                "gespot": false,
+                "datum": null,
+                "opmerkingen": "Dit is een huismus"
+            },
+            {
+                "naam": "Koolmees",
+                "Latijnse naam": "Passer domesticus",
+                "foto": "koolmees.jpg",
+                "gespot": false,
+                "datum": null,
+                "opmerkingen": "Dit is een koolmees"
+            }
+
+
+        ]
+    }
+}
+
