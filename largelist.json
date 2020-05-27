@@ -1,5 +1,6 @@
 [
     {
+		"spotted": false,
         "order": "Galliformes",
         "family": "Phasianidae",
         "subfamily": "",
@@ -9,6 +10,7 @@
         "taxon_common_name": "Kwartel"
     },
     {
+		"spotted": false,
         "order": "Galliformes",
         "family": "Phasianidae",
         "subfamily": "",
@@ -18,6 +20,7 @@
         "taxon_common_name": "Patrijs"
     },
     {
+		"spotted": false,
         "order": "Galliformes",
         "family": "Phasianidae",
         "subfamily": "",
@@ -27,6 +30,7 @@
         "taxon_common_name": "Fazant"
     },
     {
+		"spotted": false,
         "order": "Galliformes",
         "family": "Phasianidae",
         "subfamily": "",
@@ -36,6 +40,7 @@
         "taxon_common_name": "Korhoen"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -45,6 +50,7 @@
         "taxon_common_name": "Pijlstaart"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -54,6 +60,7 @@
         "taxon_common_name": "Slobeend"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -63,6 +70,7 @@
         "taxon_common_name": "Wintertaling"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -72,6 +80,7 @@
         "taxon_common_name": "Smient"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -81,6 +90,7 @@
         "taxon_common_name": "Wilde Eend"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -90,6 +100,7 @@
         "taxon_common_name": "Zomertaling"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -99,6 +110,7 @@
         "taxon_common_name": "Krakeend"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -108,6 +120,7 @@
         "taxon_common_name": "Kolgans"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -117,6 +130,7 @@
         "taxon_common_name": "Grauwe Gans"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -126,6 +140,7 @@
         "taxon_common_name": "Kleine Rietgans"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -135,6 +150,7 @@
         "taxon_common_name": "Toendrarietgans"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -144,6 +160,7 @@
         "taxon_common_name": "Kleine Topper"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -153,6 +170,7 @@
         "taxon_common_name": "Tafeleend"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -162,6 +180,7 @@
         "taxon_common_name": "Kuifeend"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -171,6 +190,7 @@
         "taxon_common_name": "Topper"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -180,6 +200,7 @@
         "taxon_common_name": "Rotgans"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -189,6 +210,7 @@
         "taxon_common_name": "Grote Canadese gans"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -198,6 +220,7 @@
         "taxon_common_name": "Brandgans"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -207,6 +230,7 @@
         "taxon_common_name": "Brilduiker"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -216,6 +240,7 @@
         "taxon_common_name": "IJseend"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -225,6 +250,7 @@
         "taxon_common_name": "Fluitzwaan"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -234,6 +260,7 @@
         "taxon_common_name": ""
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -243,6 +270,7 @@
         "taxon_common_name": ""
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -252,6 +280,7 @@
         "taxon_common_name": "Nonnetje"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -261,6 +290,7 @@
         "taxon_common_name": "Krooneend"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -270,6 +300,7 @@
         "taxon_common_name": "Eider"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -279,6 +310,7 @@
         "taxon_common_name": "Bergeend"
     },
     {
+		"spotted": false,
         "order": "Piciformes",
         "family": "Picidae",
         "subfamily": "",
@@ -288,6 +320,7 @@
         "taxon_common_name": "Grote bonte specht"
     },
     {
+		"spotted": false,
         "order": "Piciformes",
         "family": "Picidae",
         "subfamily": "",
@@ -297,6 +330,7 @@
         "taxon_common_name": "Kleine bonte specht"
     },
     {
+		"spotted": false,
         "order": "Piciformes",
         "family": "Picidae",
         "subfamily": "",
@@ -306,6 +340,7 @@
         "taxon_common_name": "Zwarte Specht"
     },
     {
+		"spotted": false,
         "order": "Piciformes",
         "family": "Picidae",
         "subfamily": "",
@@ -315,6 +350,7 @@
         "taxon_common_name": "Draaihals"
     },
     {
+		"spotted": false,
         "order": "Piciformes",
         "family": "Picidae",
         "subfamily": "",
@@ -324,6 +360,7 @@
         "taxon_common_name": "Groene specht"
     },
     {
+		"spotted": false,
         "order": "Coraciiformes",
         "family": "Alcedinidae",
         "subfamily": "",
@@ -333,6 +370,7 @@
         "taxon_common_name": "IJsvogel"
     },
     {
+		"spotted": false,
         "order": "Cuculiformes",
         "family": "Cuculidae",
         "subfamily": "",
@@ -342,6 +380,7 @@
         "taxon_common_name": "Koekoek"
     },
     {
+		"spotted": false,
         "order": "Caprimulgiformes",
         "family": "Apodidae",
         "subfamily": "",
@@ -351,6 +390,7 @@
         "taxon_common_name": "Gierzwaluw"
     },
     {
+		"spotted": false,
         "order": "Strigiformes",
         "family": "Tytonidae",
         "subfamily": "",
@@ -360,6 +400,7 @@
         "taxon_common_name": "Kerkuil"
     },
     {
+		"spotted": false,
         "order": "Strigiformes",
         "family": "Strigidae",
         "subfamily": "",
@@ -369,6 +410,7 @@
         "taxon_common_name": "Velduil"
     },
     {
+		"spotted": false,
         "order": "Strigiformes",
         "family": "Strigidae",
         "subfamily": "",
@@ -378,6 +420,7 @@
         "taxon_common_name": "Ransuil"
     },
     {
+		"spotted": false,
         "order": "Strigiformes",
         "family": "Strigidae",
         "subfamily": "",
@@ -387,6 +430,7 @@
         "taxon_common_name": "Steenuil"
     },
     {
+		"spotted": false,
         "order": "Strigiformes",
         "family": "Strigidae",
         "subfamily": "",
@@ -396,6 +440,7 @@
         "taxon_common_name": "Bosuil"
     },
     {
+		"spotted": false,
         "order": "Caprimulgiformes",
         "family": "Caprimulgidae",
         "subfamily": "",
@@ -405,6 +450,7 @@
         "taxon_common_name": "Nachtzwaluw"
     },
     {
+		"spotted": false,
         "order": "Columbiformes",
         "family": "Columbidae",
         "subfamily": "",
@@ -414,6 +460,7 @@
         "taxon_common_name": "Holenduif"
     },
     {
+		"spotted": false,
         "order": "Columbiformes",
         "family": "Columbidae",
         "subfamily": "",
@@ -423,6 +470,7 @@
         "taxon_common_name": "Houtduif"
     },
     {
+		"spotted": false,
         "order": "Columbiformes",
         "family": "Columbidae",
         "subfamily": "",
@@ -432,6 +480,7 @@
         "taxon_common_name": "Turkse Tortel"
     },
     {
+		"spotted": false,
         "order": "Anseriformes",
         "family": "Anatidae",
         "subfamily": "",
@@ -441,6 +490,7 @@
         "taxon_common_name": "Knobbelzwaan"
     },
     {
+		"spotted": false,
         "order": "Columbiformes",
         "family": "Columbidae",
         "subfamily": "",
@@ -450,6 +500,7 @@
         "taxon_common_name": "Zomertortel"
     },
     {
+		"spotted": false,
         "order": "Gruiformes",
         "family": "Rallidae",
         "subfamily": "",
@@ -459,6 +510,7 @@
         "taxon_common_name": "Kwartelkoning"
     },
     {
+		"spotted": false,
         "order": "Gruiformes",
         "family": "Rallidae",
         "subfamily": "",
@@ -468,6 +520,7 @@
         "taxon_common_name": "Meerkoet"
     },
     {
+		"spotted": false,
         "order": "Gruiformes",
         "family": "Rallidae",
         "subfamily": "",
@@ -477,6 +530,7 @@
         "taxon_common_name": "Waterhoen"
     },
     {
+		"spotted": false,
         "order": "Gruiformes",
         "family": "Rallidae",
         "subfamily": "",
@@ -486,6 +540,7 @@
         "taxon_common_name": "Klein Waterhoen"
     },
     {
+		"spotted": false,
         "order": "Gruiformes",
         "family": "Rallidae",
         "subfamily": "",
@@ -495,6 +550,7 @@
         "taxon_common_name": "Porseleinhoen"
     },
     {
+		"spotted": false,
         "order": "Gruiformes",
         "family": "Rallidae",
         "subfamily": "",
@@ -504,6 +560,7 @@
         "taxon_common_name": ""
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -513,6 +570,7 @@
         "taxon_common_name": "Oeverloper"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -522,6 +580,7 @@
         "taxon_common_name": "Steenloper"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -531,6 +590,7 @@
         "taxon_common_name": "Drieteenstrandloper"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -540,6 +600,7 @@
         "taxon_common_name": "Bonte Strandloper"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -549,6 +610,7 @@
         "taxon_common_name": "Kanoet"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -558,6 +620,7 @@
         "taxon_common_name": "Paarse strandloper"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -567,6 +630,7 @@
         "taxon_common_name": ""
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -576,6 +640,7 @@
         "taxon_common_name": "Rosse grutto"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -585,6 +650,7 @@
         "taxon_common_name": "Grutto"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -594,6 +660,7 @@
         "taxon_common_name": "Bokje"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -603,6 +670,7 @@
         "taxon_common_name": "Wulp"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -612,6 +680,7 @@
         "taxon_common_name": "Kemphaan"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -621,6 +690,7 @@
         "taxon_common_name": "Houtsnip"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -630,6 +700,7 @@
         "taxon_common_name": "Witgat"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Scolopacidae",
         "subfamily": "",
@@ -639,6 +710,7 @@
         "taxon_common_name": "Tureluur"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Charadriidae",
         "subfamily": "",
@@ -648,6 +720,7 @@
         "taxon_common_name": "Strandplevier"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Charadriidae",
         "subfamily": "",
@@ -657,6 +730,7 @@
         "taxon_common_name": "Kleine Plevier"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Charadriidae",
         "subfamily": "",
@@ -666,6 +740,7 @@
         "taxon_common_name": "Bontbekplevier"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Charadriidae",
         "subfamily": "",
@@ -675,6 +750,7 @@
         "taxon_common_name": "Morinelplevier"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Haematopodidae",
         "subfamily": "",
@@ -684,6 +760,7 @@
         "taxon_common_name": "Scholekster"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Charadriidae",
         "subfamily": "",
@@ -693,6 +770,7 @@
         "taxon_common_name": "Goudplevier"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Charadriidae",
         "subfamily": "",
@@ -702,6 +780,7 @@
         "taxon_common_name": "Zilverplevier"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Recurvirostridae",
         "subfamily": "",
@@ -711,6 +790,7 @@
         "taxon_common_name": "Kluut"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Charadriidae",
         "subfamily": "",
@@ -720,6 +800,7 @@
         "taxon_common_name": "Kievit"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Alcidae",
         "subfamily": "",
@@ -729,6 +810,7 @@
         "taxon_common_name": "Alk"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Laridae",
         "subfamily": "Sterninae",
@@ -738,6 +820,7 @@
         "taxon_common_name": "Zwarte Stern"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Alcidae",
         "subfamily": "",
@@ -747,6 +830,7 @@
         "taxon_common_name": "Papegaaiduiker"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Laridae",
         "subfamily": "Larinae",
@@ -756,6 +840,7 @@
         "taxon_common_name": "Stormmeeuw"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Laridae",
         "subfamily": "Larinae",
@@ -765,6 +850,7 @@
         "taxon_common_name": "Kleine Mantelmeeuw"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Laridae",
         "subfamily": "Larinae",
@@ -774,6 +860,7 @@
         "taxon_common_name": "Grote Mantelmeeuw"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Laridae",
         "subfamily": "Larinae",
@@ -783,6 +870,7 @@
         "taxon_common_name": "Dwergmeeuw"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Laridae",
         "subfamily": "Larinae",
@@ -792,6 +880,7 @@
         "taxon_common_name": "Kokmeeuw"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Laridae",
         "subfamily": "Larinae",
@@ -801,6 +890,7 @@
         "taxon_common_name": "Drieteenmeeuw"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Laridae",
         "subfamily": "Sterninae",
@@ -810,6 +900,7 @@
         "taxon_common_name": "Dwergstern"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Laridae",
         "subfamily": "Sterninae",
@@ -819,6 +910,7 @@
         "taxon_common_name": "Visdief"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Laridae",
         "subfamily": "Sterninae",
@@ -828,6 +920,7 @@
         "taxon_common_name": "Noordse Stern"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Laridae",
         "subfamily": "Sterninae",
@@ -837,6 +930,7 @@
         "taxon_common_name": "Grote Stern"
     },
     {
+		"spotted": false,
         "order": "Charadriiformes",
         "family": "Alcidae",
         "subfamily": "",
@@ -846,6 +940,7 @@
         "taxon_common_name": "Zeekoet"
     },
     {
+		"spotted": false,
         "order": "Accipitriformes",
         "family": "Accipitridae",
         "subfamily": "",
@@ -855,15 +950,17 @@
         "taxon_common_name": "Sperwer"
     },
     {
+		"spotted": false,
         "order": "Accipitriformes",
         "family": "Accipitridae",
         "subfamily": "",
         "genus": "Buteo",
         "taxon_name": "Buteo buteo",
         "url": "https://www.inaturalist.org/listed_taxa/16216",
-        "taxon_common_name": ""
+        "taxon_common_name": "Buizerd"
     },
     {
+		"spotted": false,
         "order": "Accipitriformes",
         "family": "Accipitridae",
         "subfamily": "",
@@ -873,6 +970,7 @@
         "taxon_common_name": "Ruigpootbuizerd"
     },
     {
+		"spotted": false,
         "order": "Accipitriformes",
         "family": "Accipitridae",
         "subfamily": "",
@@ -882,6 +980,7 @@
         "taxon_common_name": "Havik"
     },
     {
+		"spotted": false,
         "order": "Accipitriformes",
         "family": "Accipitridae",
         "subfamily": "",
@@ -891,6 +990,7 @@
         "taxon_common_name": "Bruine Kiekendief"
     },
     {
+		"spotted": false,
         "order": "Accipitriformes",
         "family": "Accipitridae",
         "subfamily": "",
@@ -900,6 +1000,7 @@
         "taxon_common_name": "Blauwe Kiekendief"
     },
     {
+		"spotted": false,
         "order": "Accipitriformes",
         "family": "Accipitridae",
         "subfamily": "",
@@ -909,6 +1010,7 @@
         "taxon_common_name": "Grauwe Kiekendief"
     },
     {
+		"spotted": false,
         "order": "Accipitriformes",
         "family": "Accipitridae",
         "subfamily": "",
@@ -918,6 +1020,7 @@
         "taxon_common_name": "Zeearend"
     },
     {
+		"spotted": false,
         "order": "Accipitriformes",
         "family": "Accipitridae",
         "subfamily": "",
@@ -927,6 +1030,7 @@
         "taxon_common_name": "Rode wouw"
     },
     {
+		"spotted": false,
         "order": "Accipitriformes",
         "family": "Accipitridae",
         "subfamily": "",
@@ -936,6 +1040,7 @@
         "taxon_common_name": "Wespendief"
     },
     {
+		"spotted": false,
         "order": "Falconiformes",
         "family": "Falconidae",
         "subfamily": "",
@@ -945,6 +1050,7 @@
         "taxon_common_name": "Smelleken"
     },
     {
+		"spotted": false,
         "order": "Falconiformes",
         "family": "Falconidae",
         "subfamily": "",
@@ -954,6 +1060,7 @@
         "taxon_common_name": "Slechtvalk"
     },
     {
+		"spotted": false,
         "order": "Falconiformes",
         "family": "Falconidae",
         "subfamily": "",
@@ -963,6 +1070,7 @@
         "taxon_common_name": "Boomvalk"
     },
     {
+		"spotted": false,
         "order": "Falconiformes",
         "family": "Falconidae",
         "subfamily": "",
@@ -972,6 +1080,7 @@
         "taxon_common_name": "Torenvalk"
     },
     {
+		"spotted": false,
         "order": "Podicipediformes",
         "family": "Podicipedidae",
         "subfamily": "",
@@ -981,6 +1090,7 @@
         "taxon_common_name": "Kuifduiker"
     },
     {
+		"spotted": false,
         "order": "Podicipediformes",
         "family": "Podicipedidae",
         "subfamily": "",
@@ -990,6 +1100,7 @@
         "taxon_common_name": "Fuut"
     },
     {
+		"spotted": false,
         "order": "Podicipediformes",
         "family": "Podicipedidae",
         "subfamily": "",
@@ -999,6 +1110,7 @@
         "taxon_common_name": "Roodhalsfuut"
     },
     {
+		"spotted": false,
         "order": "Podicipediformes",
         "family": "Podicipedidae",
         "subfamily": "",
@@ -1008,6 +1120,7 @@
         "taxon_common_name": "Geoorde Fuut"
     },
     {
+		"spotted": false,
         "order": "Podicipediformes",
         "family": "Podicipedidae",
         "subfamily": "",
@@ -1017,6 +1130,7 @@
         "taxon_common_name": "Dodaars"
     },
     {
+		"spotted": false,
         "order": "Suliformes",
         "family": "Sulidae",
         "subfamily": "",
@@ -1026,6 +1140,7 @@
         "taxon_common_name": "Jan-Van-Gent"
     },
     {
+		"spotted": false,
         "order": "Suliformes",
         "family": "Phalacrocoracidae",
         "subfamily": "",
@@ -1035,6 +1150,7 @@
         "taxon_common_name": "Aalscholver"
     },
     {
+		"spotted": false,
         "order": "Pelecaniformes",
         "family": "Ardeidae",
         "subfamily": "Ardeinae",
@@ -1044,6 +1160,7 @@
         "taxon_common_name": "Blauwe Reiger"
     },
     {
+		"spotted": false,
         "order": "Pelecaniformes",
         "family": "Ardeidae",
         "subfamily": "Ardeinae",
@@ -1053,6 +1170,7 @@
         "taxon_common_name": "Purperreiger"
     },
     {
+		"spotted": false,
         "order": "Pelecaniformes",
         "family": "Ardeidae",
         "subfamily": "Botaurinae",
@@ -1062,6 +1180,7 @@
         "taxon_common_name": "Roerdomp"
     },
     {
+		"spotted": false,
         "order": "Pelecaniformes",
         "family": "Ardeidae",
         "subfamily": "Botaurinae",
@@ -1071,6 +1190,7 @@
         "taxon_common_name": ""
     },
     {
+		"spotted": false,
         "order": "Pelecaniformes",
         "family": "Ardeidae",
         "subfamily": "Ardeinae",
@@ -1080,6 +1200,7 @@
         "taxon_common_name": "Kwak"
     },
     {
+		"spotted": false,
         "order": "Pelecaniformes",
         "family": "Threskiornithidae",
         "subfamily": "",
@@ -1089,6 +1210,7 @@
         "taxon_common_name": "Lepelaar"
     },
     {
+		"spotted": false,
         "order": "Ciconiiformes",
         "family": "Ciconiidae",
         "subfamily": "",
@@ -1098,6 +1220,7 @@
         "taxon_common_name": "Ooievaar"
     },
     {
+		"spotted": false,
         "order": "Gaviiformes",
         "family": "Gaviidae",
         "subfamily": "",
@@ -1107,6 +1230,7 @@
         "taxon_common_name": "Roodkeelduiker"
     },
     {
+		"spotted": false,
         "order": "Procellariiformes",
         "family": "Procellariidae",
         "subfamily": "",
@@ -1116,24 +1240,27 @@
         "taxon_common_name": "Noordse Stormvogel"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Laniidae",
         "subfamily": "",
         "genus": "Lanius",
         "taxon_name": "Lanius excubitor",
         "url": "https://www.inaturalist.org/listed_taxa/16245",
-        "taxon_common_name": ""
+        "taxon_common_name": "Klapekster"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Corvidae",
         "subfamily": "",
         "genus": "Corvus",
         "taxon_name": "Corvus corone",
         "url": "https://www.inaturalist.org/listed_taxa/16246",
-        "taxon_common_name": ""
+        "taxon_common_name": "Zwarte kraai"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Corvidae",
         "subfamily": "",
@@ -1143,6 +1270,7 @@
         "taxon_common_name": "Roek"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Corvidae",
         "subfamily": "",
@@ -1152,6 +1280,7 @@
         "taxon_common_name": "Kauw"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Corvidae",
         "subfamily": "",
@@ -1161,6 +1290,7 @@
         "taxon_common_name": "Gaai"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Oriolidae",
         "subfamily": "",
@@ -1170,15 +1300,17 @@
         "taxon_common_name": ""
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Corvidae",
         "subfamily": "",
         "genus": "Pica",
         "taxon_name": "Pica pica",
         "url": "https://www.inaturalist.org/listed_taxa/16251",
-        "taxon_common_name": ""
+        "taxon_common_name": "Ekster"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Bombycillidae",
         "subfamily": "",
@@ -1188,6 +1320,7 @@
         "taxon_common_name": "Pestvogel"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Cinclidae",
         "subfamily": "",
@@ -1197,6 +1330,7 @@
         "taxon_common_name": "Waterspreeuw"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Muscicapidae",
         "subfamily": "",
@@ -1206,6 +1340,7 @@
         "taxon_common_name": "Roodborst"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Muscicapidae",
         "subfamily": "",
@@ -1215,6 +1350,7 @@
         "taxon_common_name": ""
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Muscicapidae",
         "subfamily": "",
@@ -1224,6 +1360,7 @@
         "taxon_common_name": "Nachtegaal"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Muscicapidae",
         "subfamily": "",
@@ -1233,6 +1370,7 @@
         "taxon_common_name": "Blauwborst"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Muscicapidae",
         "subfamily": "",
@@ -1242,6 +1380,7 @@
         "taxon_common_name": "Grauwe Vliegenvanger"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Muscicapidae",
         "subfamily": "",
@@ -1251,6 +1390,7 @@
         "taxon_common_name": "Tapuit"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Muscicapidae",
         "subfamily": "",
@@ -1260,6 +1400,7 @@
         "taxon_common_name": "Zwarte Roodstaart"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Muscicapidae",
         "subfamily": "",
@@ -1269,6 +1410,7 @@
         "taxon_common_name": "Gekraagde  Roodstaart"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Muscicapidae",
         "subfamily": "",
@@ -1278,6 +1420,7 @@
         "taxon_common_name": "Paapje"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Turdidae",
         "subfamily": "",
@@ -1287,6 +1430,7 @@
         "taxon_common_name": "Koperwiek"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Turdidae",
         "subfamily": "",
@@ -1296,6 +1440,7 @@
         "taxon_common_name": "Merel"
     },
     {
+		"spotted": false,
         "order": "Gaviiformes",
         "family": "Gaviidae",
         "subfamily": "",
@@ -1305,6 +1450,7 @@
         "taxon_common_name": "Parelduiker"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Laniidae",
         "subfamily": "",
@@ -1314,6 +1460,7 @@
         "taxon_common_name": "Grauwe Klauwier"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Turdidae",
         "subfamily": "",
@@ -1323,6 +1470,7 @@
         "taxon_common_name": "Zanglijster"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Turdidae",
         "subfamily": "",
@@ -1332,6 +1480,7 @@
         "taxon_common_name": "Kramsvogel"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Turdidae",
         "subfamily": "",
@@ -1341,6 +1490,7 @@
         "taxon_common_name": "Grote Lijster"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Sturnidae",
         "subfamily": "",
@@ -1350,6 +1500,7 @@
         "taxon_common_name": "Spreeuw"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Sittidae",
         "subfamily": "",
@@ -1359,6 +1510,7 @@
         "taxon_common_name": "Boomklever"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Certhiidae",
         "subfamily": "",
@@ -1368,15 +1520,17 @@
         "taxon_common_name": "Boomkruiper"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Troglodytidae",
         "subfamily": "",
         "genus": "Troglodytes",
         "taxon_name": "Troglodytes troglodytes",
         "url": "https://www.inaturalist.org/listed_taxa/16274",
-        "taxon_common_name": ""
+        "taxon_common_name": "Winterkoning"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Paridae",
         "subfamily": "",
@@ -1386,6 +1540,7 @@
         "taxon_common_name": "Pimpelmees"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Paridae",
         "subfamily": "",
@@ -1395,6 +1550,7 @@
         "taxon_common_name": "Kuifmees"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Paridae",
         "subfamily": "",
@@ -1404,6 +1560,7 @@
         "taxon_common_name": "Zwarte mees"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Paridae",
         "subfamily": "",
@@ -1413,6 +1570,7 @@
         "taxon_common_name": "Matkop"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Paridae",
         "subfamily": "",
@@ -1422,6 +1580,7 @@
         "taxon_common_name": "Glanskop"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Remizidae",
         "subfamily": "",
@@ -1431,6 +1590,7 @@
         "taxon_common_name": "Buidelmees"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Aegithalidae",
         "subfamily": "",
@@ -1440,6 +1600,7 @@
         "taxon_common_name": "Staartmees"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Hirundinidae",
         "subfamily": "",
@@ -1449,6 +1610,7 @@
         "taxon_common_name": "Huiszwaluw"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Hirundinidae",
         "subfamily": "",
@@ -1458,6 +1620,7 @@
         "taxon_common_name": "Boerenzwaluw"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Hirundinidae",
         "subfamily": "",
@@ -1467,6 +1630,7 @@
         "taxon_common_name": "Oeverzwaluw"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Sylviidae",
         "subfamily": "",
@@ -1476,6 +1640,7 @@
         "taxon_common_name": "Zwartkop"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Sylviidae",
         "subfamily": "",
@@ -1485,6 +1650,7 @@
         "taxon_common_name": "Tuinfluiter"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Sylviidae",
         "subfamily": "",
@@ -1494,6 +1660,7 @@
         "taxon_common_name": "Grasmus"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Sylviidae",
         "subfamily": "",
@@ -1503,6 +1670,7 @@
         "taxon_common_name": "Braamsluiper"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Alaudidae",
         "subfamily": "",
@@ -1512,6 +1680,7 @@
         "taxon_common_name": "Veldleeuwerik"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Alaudidae",
         "subfamily": "",
@@ -1521,6 +1690,7 @@
         "taxon_common_name": "Strandleeuwerik"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Alaudidae",
         "subfamily": "",
@@ -1530,6 +1700,7 @@
         "taxon_common_name": "Kuifleeuwerik"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Alaudidae",
         "subfamily": "",
@@ -1539,6 +1710,7 @@
         "taxon_common_name": "Boomleeuwerik"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Motacillidae",
         "subfamily": "",
@@ -1548,6 +1720,7 @@
         "taxon_common_name": "Duinpieper"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Motacillidae",
         "subfamily": "",
@@ -1557,6 +1730,7 @@
         "taxon_common_name": "Oeverpieper"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Motacillidae",
         "subfamily": "",
@@ -1566,6 +1740,7 @@
         "taxon_common_name": "Graspieper"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Motacillidae",
         "subfamily": "",
@@ -1575,6 +1750,7 @@
         "taxon_common_name": "Waterpieper"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Motacillidae",
         "subfamily": "",
@@ -1584,6 +1760,7 @@
         "taxon_common_name": "Boompieper"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Motacillidae",
         "subfamily": "",
@@ -1593,6 +1770,7 @@
         "taxon_common_name": "Witte kwikstaart"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Motacillidae",
         "subfamily": "",
@@ -1602,6 +1780,7 @@
         "taxon_common_name": "Grote gele kwikstaart"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Motacillidae",
         "subfamily": "",
@@ -1611,6 +1790,7 @@
         "taxon_common_name": ""
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Passeridae",
         "subfamily": "",
@@ -1620,6 +1800,7 @@
         "taxon_common_name": "Huismus"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Passeridae",
         "subfamily": "",
@@ -1629,6 +1810,7 @@
         "taxon_common_name": "Ringmus"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Paridae",
         "subfamily": "",
@@ -1638,6 +1820,7 @@
         "taxon_common_name": "Koolmees"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Prunellidae",
         "subfamily": "",
@@ -1647,6 +1830,7 @@
         "taxon_common_name": "Heggenmus"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Fringillidae",
         "subfamily": "",
@@ -1656,6 +1840,7 @@
         "taxon_common_name": "Appelvink"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Fringillidae",
         "subfamily": "",
@@ -1665,6 +1850,7 @@
         "taxon_common_name": "Vink"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Fringillidae",
         "subfamily": "",
@@ -1674,6 +1860,7 @@
         "taxon_common_name": "Keep"
     },
     {
+		"spotted": false,
         "order": "Passeriformes",
         "family": "Muscicapidae",
         "subfamily": "",
