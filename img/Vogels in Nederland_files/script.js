@@ -1,7 +1,6 @@
 // constants
 // const jsonFile = 'vogels.json';
-// const jsonFile = '8448-Birds-of-Netherlands.taxonomic.json';
-const jsonFile = 'largelist.json';
+const jsonFile = '8448-Birds-of-Netherlands.taxonomic.json';
 
 const addOverview = (element) => {
     document.getElementById('checklist').appendChild(element);
@@ -22,13 +21,9 @@ const addTable = () => {
     }); 
 }
 
-const createHeaderRow = (row, obj) => {
-    const cell = row.c
-}
-
 const createTableLarge = arr => {
     const table = document.createElement('table');
-    // const firstRow = table.insertRow();
+    const firstRow = table.insertRow();
     arr.forEach(element => {
         const row = table.insertRow();
         Object.keys(element).forEach(function(key, index) {
